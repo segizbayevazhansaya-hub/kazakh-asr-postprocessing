@@ -2,7 +2,7 @@
 
 Code, data lists and saved outputs for the paper
 
-> Tukeyev, U.; Tukeyev, U.Segizbayeva, Z. *Post-Processing for Kazakh Speech Recognition: Morphology-Aware Correction (MAPP) and Confidence-Guarded ROVER-CRF Multi-System Selection.* Information 2026 (submitted).
+> Tukeyev, U.; Segizbayeva, Z. *Post-Processing for Kazakh Speech Recognition: Morphology-Aware Correction (MAPP) and Confidence-Guarded ROVER-CRF Multi-System Selection.* Information 2026 (submitted).
 
 Two post-processing methods are compared on the same 100 Kazakh recordings (4 h 19 min):
 
